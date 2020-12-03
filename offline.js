@@ -1,0 +1,30 @@
+﻿{
+	"version": 1606969771,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/background-sheet0.png",
+		"images/rock-sheet0.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/logo-sheet0.png",
+		"images/biscuit-sheet0.png",
+		"images/biscuit-sheet1.png",
+		"images/biscuit-sheet2.png",
+		"images/gameover-sheet0.png",
+		"media/win.m4a",
+		"media/win.ogg",
+		"media/theme.m4a",
+		"media/theme.ogg",
+		"media/mixkit-christmas-gifts-862 (online-audio-converter.com).m4a",
+		"media/mixkit-christmas-gifts-862 (online-audio-converter.com).ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
